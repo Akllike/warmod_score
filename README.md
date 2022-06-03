@@ -1,2 +1,2 @@
-# warmod_score
-WarMod Score
+# WarMod Score
+WarMod Score - Сохранение счета матча в табло после смены сторон игроков.
