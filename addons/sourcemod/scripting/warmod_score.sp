@@ -118,11 +118,6 @@ public Action Timer_lo3(Handle hTimerLo3)
     KillTimer(hTimerLo3);
 }
 
-public OnEndMatch()
-{
-    g_Variable.GetScore(0, 0);
-}
-
 public void OnMapEnd()
 {
     g_Variable.GetScore(0, 0);
